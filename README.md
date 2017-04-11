@@ -1,2 +1,2 @@
 # Random Repo
-check back often
+Retired repo, may be revived at a later date
